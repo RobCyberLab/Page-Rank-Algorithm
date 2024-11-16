@@ -51,28 +51,23 @@ The final ranks of the nodes for each iteration of the PageRank algorithm are ca
 ---
 
 ### Results📊:
-- Graph 
 
 <p align="center">
-  <img src="ex1.png" alt="Graph" width="1000">
+  <img src="ex1.png" alt="Graph" width="500">
   <br>
   <em>Graph</em>
-</p>
-
-- Adjacency List 
+</p> 
 
 <p align="center">
-  <img src="ex2.png" alt="Adjacency List" width="1000">
+  <img src="ex2.png" alt="Adjacency List" width="500">
   <br>
-  <em>Adjacency Lis</em>
+  <em>Adjacency List</em>
 </p>
 
-- Transition Matrix (M)
-
 <p align="center">
-  <img src="ex3.png" alt="Transition Matrix" width="1000">
+  <img src="ex3.png" alt="Transition Matrix" width="500">
   <br>
-  <em>Transition Matrix</em>
+  <em>Transition Matrix (M)</em>
 </p>
 
 Bar chart for the rankings of the n nodes:
